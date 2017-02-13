@@ -10,7 +10,7 @@ The Arduino is set to be powered by the 5V standby power provided by a regular c
 - Arduino Mega 2560 (other Arduinos can be used)
 - ENC28J60 ethernet shield (other ethernet shields can be used)
 - several wires
-- 12V windshield cleaner water pump
+- 12V windshield washer water pump
 - moisture sensor
 - LDR sensor
 - double relay shield
